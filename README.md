@@ -6,3 +6,4 @@ instructions: x n let -> assigns the value n to the variable x
               mul -> multiplication of two values
               div -> division of two values
 input example : x 1 let 2 x add y 3 let x y add mul
+
