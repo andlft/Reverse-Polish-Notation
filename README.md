@@ -1,6 +1,7 @@
 # Reverse-Polish-Notation
 Reverse Polish Notation implementation in x86 Assembly (AT&amp;T Syntax) <br />
-instructions: x n let -> assigns the value n to the variable x <br />
+instructions: <br />
+x n let -> assigns the value n to the variable x <br />
               add -> additon of two values <br />
               sub -> subtraction of two values <br />
               mul -> multiplication of two values <br />
